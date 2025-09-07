@@ -11,4 +11,4 @@ source .venv/bin/activate   # Mac/Linux
 # OR: .venv\Scripts\activate  # Windows PowerShell
 
 # install deps
-pip install -r requirements.txt# datafun-03-analytics
+pip install -r requirements.txt
